@@ -23,3 +23,8 @@
 原来 是给我的 cron写入一个每时每刻每分每秒都在执行的任务，。。。。。。。
 ![10](https://dn-shimo-image.qbox.me/tom2B8mF14US6oyx.png)
 特么的 服。。。。
+
+ date:  2016年 04月 02日 星期六 22:30:33 CST
+ ![16](https://dn-shimo-image.qbox.me/ljiJ4HmcL1E4UulJ.png)
+ 又开始了。
+ ![17](https://dn-shimo-image.qbox.me/2NeNOKhHJWgV5wkZ.png)
